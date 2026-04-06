@@ -1,4 +1,4 @@
-![Queryo Docs Banner](assets/banner.png)
+![Queryo Docs Banner](assets/banner_v2.png)
 
 # 🔎 Queryo Docs  
 ### 📄 AI-Powered Document Question Answering System using Retrieval-Augmented Generation (RAG)
