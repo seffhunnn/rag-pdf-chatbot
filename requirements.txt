@@ -1,0 +1,14 @@
+streamlit
+sentence-transformers
+transformers
+torch
+scikit-learn
+numpy
+pypdf
+langchain
+langchain-community
+langchain-text-splitters
+accelerate
+sentencepiece
+huggingface-hub
+safetensors
